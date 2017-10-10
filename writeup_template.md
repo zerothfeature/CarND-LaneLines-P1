@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [image4]: ./writeup_images/roi.jpg "Region of Interest Truncation"
 [image5]: ./writeup_images/hough_lines1.jpg "Hough Lines"
 [image6]: ./writeup_images/hough_lines.jpg "Weighted Mean and Slope Filtering"
-[image7]: ./writeup_images/gray.jpg "Extrapolate and Render"
+[image7]: ./writeup_images/solidYellowLeft.jpg "Extrapolate and Render"
 
 ---
 
